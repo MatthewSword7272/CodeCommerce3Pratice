@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@layer components {
+  button {
+    @apply border border-transparent py-2 px-3 rounded-full cursor-pointer
+  }
+
+  h1 {
+    @apply text-5xl md:text-7xl font-bold drop-shadow-2xl
+  }
+
+  p {
+    @apply py-2 text-xl
+  }
+}
+
+.slick-track {
+
+ 
+}
+.slick-slide {
+
+
+}
+.slick-slide > div {
+
+
+}
