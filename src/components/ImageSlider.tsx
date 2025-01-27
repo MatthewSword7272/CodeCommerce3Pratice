@@ -69,7 +69,7 @@ const ImageSlider = () => {
     >
       <Slider className={""} {...settings}>
         {slides.map((slide, index) => (
-          <div key={index} className="h-1/2">
+          <div key={index} className="">
             <img
               src={slide.url}
               alt={slide.title}
