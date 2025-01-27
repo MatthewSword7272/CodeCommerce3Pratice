@@ -9,20 +9,11 @@
     @apply text-5xl md:text-7xl font-bold drop-shadow-2xl
   }
 
+  h3 {
+    @apply font-bold text-4xl
+  }
+
   p {
     @apply py-2 text-xl
   }
-}
-
-.slick-track {
-
- 
-}
-.slick-slide {
-
-
-}
-.slick-slide > div {
-
-
 }

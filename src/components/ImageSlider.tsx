@@ -64,7 +64,7 @@ const ImageSlider = () => {
   return (
     <div
       className={
-        "relative max-w-[75rem] h-[36.25rem] w-full m-auto mb-32 py-16 px-4"
+        "relative max-w-[75rem] w-full m-auto my-10 py-32 px-4"
       }
     >
       <Slider className={""} {...settings}>
